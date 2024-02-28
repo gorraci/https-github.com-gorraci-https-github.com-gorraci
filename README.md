@@ -2,7 +2,7 @@
 
 <img src="/src/WhatsApp%20Image%202024-02-28%20at%2000.40.00.jpeg" alt="Foto da Família" width="200" />
 
-)
+
 
 
 ![Linguagens que serao usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
